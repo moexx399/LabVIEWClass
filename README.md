@@ -6,7 +6,7 @@ LabVIEW Training Material I have developped for FRC LabVIEW. This is the order o
 -  Visual Studios
 -  New Program and Basic Programming
 -  Lecture 1
--  Lecture 2 (June 13)
+-  Lecture 2
 -  Lecture 3
 -  Basic of LabVIEW FRC
 -  Custom VI's
